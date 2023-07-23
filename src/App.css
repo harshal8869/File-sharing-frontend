@@ -24,6 +24,14 @@ img {
   flex-direction: column;
 }
 
+h1{
+  font-size: 40px;
+  font-weight: 600;
+  color: purple;
+  margin: 40px 0;
+}
+
+
 
 button{
   width: 150px;
