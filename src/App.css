@@ -14,7 +14,15 @@ img {
   width: 30%;
 }
 
-
+.wrapper{
+  background-color: #fff;
+  width: 600px;
+  height: 400px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
 
 h1{
   font-size: 40px;
