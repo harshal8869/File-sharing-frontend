@@ -3,7 +3,7 @@ import './App.css';
 import { uploadFile } from './services/api';
 
 
-function App() {
+function App() { 
   const [file, setFile] = useState('');
   const [result, setResult] = useState('');
 
