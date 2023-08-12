@@ -4,10 +4,7 @@ import { uploadFile } from './services/api';
 
 
 function App() { 
-  const [file, setFile] = useState(''); 
-  const [result, setResult] = useState('');
-
-  const fileInputRef = useRef();
+ 
  
   const logo = 'https://i.pinimg.com/originals/16/46/24/1646243661201a0892cc4b1a64fcbacf.jpg';
 
