@@ -4,7 +4,7 @@ import { uploadFile } from './services/api';
 
 
 function App() { 
-  const [file, setFile] = useState('');
+  const [file, setFile] = useState(''); 
   const [result, setResult] = useState('');
 
   const fileInputRef = useRef();
